@@ -3,7 +3,8 @@
 EXECUTION VIDEO IN THE GITHUB REPO ITSELF 
 
 #How to Run
-In the project directory, you can run:
+
+In the project directory, :
 
 `npm install`
 To install all dependinces
